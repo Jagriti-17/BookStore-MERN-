@@ -23,7 +23,7 @@ This is a MERN (MongoDB, Express, React, Node.js) project to implement an online
 
 ## Acknowledgments
 
-- The code for this project is based on the **Bookstore MERN Stack** tutorial by [YouTube - Code with Harry](https://youtu.be/-42K44A1oMA?si=PnnOCvVCMwEvW-jt).
+- The code for this project is based on the **MERN Stack Tutorial - Book Store Project** tutorial by [YouTube - freeCodeCamp.org](https://youtu.be/-42K44A1oMA?si=TzySqEbXKeVPM21i).
 - The tutorial provided step-by-step guidance for building the Bookstore application and helped me understand key concepts of the MERN stack.
 - This project was created as part of a learning exercise, following the tutorial on YouTube.
 
