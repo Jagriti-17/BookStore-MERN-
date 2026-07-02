@@ -26,6 +26,10 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Jagriti-17/BookStore-MERN-.git
+```
+
+
+---
 
 
 
