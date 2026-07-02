@@ -21,20 +21,34 @@ This is a MERN (MongoDB, Express, React, Node.js) project to implement an online
 - **Styling**: Taiwind CSS
   
 
-## Acknowledgments
-
-- The code for this project is based on the **MERN Stack Tutorial - Book Store Project** tutorial by [YouTube - freeCodeCamp.org](https://youtu.be/-42K44A1oMA?si=TzySqEbXKeVPM21i).
-- The tutorial provided step-by-step guidance for building the Bookstore application and helped me understand key concepts of the MERN stack.
-- This project was created as part of a learning exercise, following the tutorial on YouTube.
-
-
-
-
 ### Clone the repository
 Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Jagriti-17/BookStore-MERN-.git
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- MERN Stack architecture
+- React components and routing
+- Express.js and Node.js
+- RESTful API development
+- MongoDB and Mongoose
+- CRUD operations
+- API integration using Axios
+- Full-stack application development
+
+---
+
+## 📝 Note
+
+This project was built as part of my MERN Stack learning journey to gain hands-on experience with full-stack web development concepts and best practices.
+
+---
 
 
 
